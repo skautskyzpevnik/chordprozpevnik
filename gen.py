@@ -3,6 +3,7 @@ import os
 import glob
 import logging
 import json
+from urllib.parse import quote
 
 folder_path_song = 'songs/'
 folder_path_no_chords = 'no_chords/'
@@ -28,7 +29,7 @@ def extract_chordpro_info(file_path):
             "name": title + " - " + artist,
             "title": title,
             "artist": artist,
-            "file": os.path.splitext(file_path)[0]
+            "file": quote(os.path.splitext(file_path)[0])
         }
         
 
