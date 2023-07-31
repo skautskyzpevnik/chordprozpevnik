@@ -4,7 +4,8 @@ import glob
 import logging
 import json
 
-folder_path = 'songs/'
+folder_path_song = 'songs/'
+folder_path_no_chords = 'no_chords/'
 
 def extract_chordpro_info(file_path):
     title = ""
@@ -27,12 +28,13 @@ def extract_chordpro_info(file_path):
             "name": title + " - " + artist,
             "title": title,
             "artist": artist,
-            "file": os.path.splitext(os.path.basename(file_path))[0]
+            "file": os.path.splitext(file_path)[0]
         }
         
 
 # List all files in the folder with a specific pattern, e.g., all files ending with .txt
-file_list = glob.glob(os.path.join(folder_path, '*.chordpro'))
+file_list = glob.glob(os.path.join(folder_path_no_chords, '*.chordpro'))
+file_list.extend(glob.glob(os.path.join(folder_path_song, '*.chordpro')))
 
 songs = {}
 for file in file_list:
