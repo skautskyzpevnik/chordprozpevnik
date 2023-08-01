@@ -26,7 +26,6 @@ def extract_chordpro_info(file_path):
         return None
     else:
         return {
-            "name": title + " - " + artist,
             "title": title,
             "artist": artist,
             "file": quote(os.path.splitext(file_path)[0])
@@ -43,23 +42,7 @@ for file in file_list:
     if info is None:
         logging.warning("Unable to extract info from file '" + file + "'\n skipping")
         continue
-    songs[info["name"]] = {"title": info["title"], "artist": info["artist"], "file": info["file"]}
-
-alphabeth = {}
-
-for key, value in songs.items():
-    first_char = key[0]
-    if first_char in ["0", "1", "2", "3", "4", "5", "6", "7", "8", "9"]:
-        first_char = "0-9"
-    if first_char not in alphabeth:
-        alphabeth[first_char] = {}
-    if key not in alphabeth[first_char]:
-        alphabeth[first_char][key] = {}
-    alphabeth[first_char][key] = value
-
-for key in alphabeth:
-    with open(key + ".json", 'w', encoding='utf-8') as file:
-        json.dump(alphabeth[key], file, indent=4, ensure_ascii=False)
+    songs[info["file"]] = {"title": info["title"], "artist": info["artist"], "file": info["file"]}
 
 with open("list.json", 'w', encoding='utf-8') as file:
-        json.dump(list(alphabeth.keys()), file, indent=4, ensure_ascii=False)
+        json.dump(songs, file, indent=4, ensure_ascii=False)
