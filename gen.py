@@ -26,6 +26,7 @@ def extract_chordpro_info(file_path):
         return None
     else:
         return {
+            "name": quote(title + "-" + artist),
             "title": title,
             "artist": artist,
             "file": quote(os.path.splitext(file_path)[0])
@@ -42,7 +43,7 @@ for file in file_list:
     if info is None:
         logging.warning("Unable to extract info from file '" + file + "'\n skipping")
         continue
-    songs[info["file"]] = {"title": info["title"], "artist": info["artist"], "file": info["file"]}
+    songs[info["name"]] = {"title": info["title"], "artist": info["artist"], "file": info["file"]}
 
 for song in songs:
     print("Extracted: " + songs[song]['title'] + " - " + songs[song]['artist'])
