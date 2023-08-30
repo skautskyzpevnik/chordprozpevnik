@@ -45,8 +45,14 @@ for file in file_list:
         continue
     songs[info["name"]] = {"title": info["title"], "artist": info["artist"], "file": info["file"]}
 
+#songs = dict(sorted(songs.items()))
+
+songs = dict(sorted(songs.items(), key=lambda item: item[1]["title"]))
+
 for song in songs:
     print("Extracted: " + songs[song]['title'] + " - " + songs[song]['artist'])
+
+print("Extracted " + str(len(songs)) + " songs.")
 
 with open("list.json", 'w', encoding='utf-8') as file:
         json.dump(songs, file, indent=4, ensure_ascii=False)
