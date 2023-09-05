@@ -7,6 +7,9 @@ from urllib.parse import quote
 
 folder_path_song = 'songs/'
 folder_path_no_chords = 'no_chords/'
+folder_path_songbooks = 'songbooks/'
+
+final = {}
 
 def extract_chordpro_info(file_path):
     title = ""
@@ -54,5 +57,26 @@ for song in songs:
 
 print("Extracted " + str(len(songs)) + " songs.")
 
+final["songbooks"] = []
+## extract songbooks
+
+
+songbook_file_list = glob.glob(os.path.join(folder_path_songbooks, '*'))
+for songbook in songbook_file_list:
+    with open(songbook, "r") as json_file:
+        # Load the JSON data into a Python dictionary
+        data = json.load(json_file)
+    for song in data["songs"]:
+        if not (quote(song["title"]+ "-" + song["artist"]) in songs):
+            print("Song from songbook \"" + data["title"] + "\" not in songs: " + song["title"]+ " - " + song["artist"])
+
+    final["songbooks"].append({
+        "title": data["title"],
+        "subtitle": data["subtitle"],
+        "file": folder_path_songbooks
+    })
+
+final["songs"] = songs
+
 with open("list.json", 'w', encoding='utf-8') as file:
-        json.dump(songs, file, indent=4, ensure_ascii=False)
+        json.dump(final, file, indent=4, ensure_ascii=False)

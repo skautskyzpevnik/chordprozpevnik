@@ -1,0 +1,322 @@
+{
+    "title": "Táborové",
+    "subtitle": "Skautský zpěvník",
+    "songs": [
+        {
+            "title": "Amazonka",
+            "artist": "Hop Trop"
+        },
+        {
+            "title": "Batalion",
+            "artist": "Spirituál kvintet"
+        },
+        {
+            "title": "Bedna vod whisky",
+            "artist": "Miki Ryvola"
+        },
+        {
+            "title": "Bláznova ukolébavka",
+            "artist": "Pavel Dydovič"
+        },
+        {
+            "title": "Carpe diem",
+            "artist": "AG Flek"
+        },
+        {
+            "title": "Cizinec",
+            "artist": "Greenhorns"
+        },
+        {
+            "title": "Cukrářská Bossa Nova",
+            "artist": "Jaromír Nohavica"
+        },
+        {
+            "title": "Čarodějnice z Amesbury",
+            "artist": "Asonance"
+        },
+        {
+            "title": "Červená řeka",
+            "artist": "Helena Vondráčková"
+        },
+        {
+            "title": "Divnej smích",
+            "artist": "Greenhorns"
+        },
+        {
+            "title": "Divocí koně",
+            "artist": "Jaromír Nohavica"
+        },
+        {
+            "title": "Divokej horskej tymián",
+            "artist": "Žalman"
+        },
+        {
+            "title": "Dokud se zpívá",
+            "artist": "Jaromír Nohavica"
+        },
+        {
+            "title": "Fajn Džob",
+            "artist": "Hop Trop"
+        },
+        {
+            "title": "Frankie Dlouhán",
+            "artist": "Brontosauři"
+        },
+        {
+            "title": "Grónská písnička",
+            "artist": "Jaromír Nohavica"
+        },
+        {
+            "title": "Hej, člověče boží",
+            "artist": "Nezmaři"
+        },
+        {
+            "title": "Hejkal",
+            "artist": "Wabi Daněk"
+        },
+        {
+            "title": "Hejno vran",
+            "artist": "Wabi Ryvola"
+        },
+        {
+            "title": "Hlídač krav",
+            "artist": "Jaromír Nohavica"
+        },
+        {
+            "title": "Ho ho Watanay",
+            "artist": "Žalman"
+        },
+        {
+            "title": "Holubí dům",
+            "artist": "Jiří Schelinger"
+        },
+        {
+            "title": "Hruška",
+            "artist": "Čechomor"
+        },
+        {
+            "title": "Hudsonský šífy",
+            "artist": "Wabi Daněk"
+        },
+        {
+            "title": "Husličky",
+            "artist": "Vlasta Redl"
+        },
+        {
+            "title": "Hvězdář",
+            "artist": "UDG"
+        },
+        {
+            "title": "Chvíle",
+            "artist": "Hop Trop"
+        },
+        {
+            "title": "Jantarová země",
+            "artist": "Žalman"
+        },
+        {
+            "title": "Jarní kurýr",
+            "artist": "Miki Ryvola"
+        },
+        {
+            "title": "Jaro",
+            "artist": "Fešáci"
+        },
+        {
+            "title": "Jdem zpátky do lesů",
+            "artist": "Žalman"
+        },
+        {
+            "title": "Jesse James",
+            "artist": "Greenhorns"
+        },
+        {
+            "title": "Ještě jedno kafe",
+            "artist": "Robert Křesťan"
+        },
+        {
+            "title": "Když mě brali za vojáka",
+            "artist": "Jaromír Nohavica"
+        },
+        {
+            "title": "Kláda",
+            "artist": "Hop Trop"
+        },
+        {
+            "title": "Kluziště",
+            "artist": "Karel Plíhal"
+        },
+        {
+            "title": "Kozel",
+            "artist": "Jaromír Nohavica"
+        },
+        {
+            "title": "Král a klaun",
+            "artist": "Karel Kryl"
+        },
+        {
+            "title": "Lachtani",
+            "artist": "Jaromír Nohavica"
+        },
+        {
+            "title": "Lemon Tree",
+            "artist": "Fool´s Garden"
+        },
+        {
+            "title": "Mezi horami",
+            "artist": "Čechomor"
+        },
+        {
+            "title": "Možná se mýlím",
+            "artist": "Jaromír Nohavica"
+        },
+        {
+            "title": "Na kameni kámen",
+            "artist": "Nedvědi"
+        },
+        {
+            "title": "Na Španělských schodech",
+            "artist": "Druhá tráva a Křesťan"
+        },
+        {
+            "title": "Nad stádem koní",
+            "artist": "Buty"
+        },
+        {
+            "title": "Obchodník s deštěm",
+            "artist": "Kryštof"
+        },
+        {
+            "title": "Okoř",
+            "artist": "táborové"
+        },
+        {
+            "title": "Osamělý město",
+            "artist": "Wabi Ryvola"
+        },
+        {
+            "title": "Outsider Waltz",
+            "artist": "Wabi Daněk"
+        },
+        {
+            "title": "Panenka",
+            "artist": "Poutníci"
+        },
+        {
+            "title": "Píseň co mě učil listopad",
+            "artist": "Wabi Daněk"
+        },
+        {
+            "title": "Podběl",
+            "artist": "Hop Trop"
+        },
+        {
+            "title": "Pojďme se napít",
+            "artist": "Poutníci"
+        },
+        {
+            "title": "Poslední kovboj",
+            "artist": "Michal Tučný"
+        },
+        {
+            "title": "Pramínek vlasů",
+            "artist": "Jiří Suchý"
+        },
+        {
+            "title": "Proměny",
+            "artist": "Čechomor"
+        },
+        {
+            "title": "Proužek",
+            "artist": "Nedvědi"
+        },
+        {
+            "title": "Rána v trávě",
+            "artist": "Žalman"
+        },
+        {
+            "title": "Rodné údolí",
+            "artist": "František Nedvěd"
+        },
+        {
+            "title": "Rosa na kolejích",
+            "artist": "Wabi Daněk"
+        },
+        {
+            "title": "Sedmnáct dnů",
+            "artist": "Wabi Ryvola"
+        },
+        {
+            "title": "Slavíci z Madridu",
+            "artist": "Matuška"
+        },
+        {
+            "title": "Sluneční hrob",
+            "artist": "Vladimír Mišík"
+        },
+        {
+            "title": "Spím v obilí",
+            "artist": "Jelen"
+        },
+        {
+            "title": "Stánky",
+            "artist": "Jan Nedvěd"
+        },
+        {
+            "title": "Stromy",
+            "artist": "Wabi Daněk"
+        },
+        {
+            "title": "Těšínská",
+            "artist": "Jaromír Nohavica"
+        },
+        {
+            "title": "Tisíc mil",
+            "artist": "Duskor"
+        },
+        {
+            "title": "Toulavej",
+            "artist": "Vojta Kiďák a Tomáško"
+        },
+        {
+            "title": "Trampská",
+            "artist": "Bratři Ebenové"
+        },
+        {
+            "title": "Trh ve Scarborough",
+            "artist": "Spirituál kvintet"
+        },
+        {
+            "title": "Tři kříže",
+            "artist": "Hop Trop"
+        },
+        {
+            "title": "Ukolébavka",
+            "artist": "Nohavica"
+        },
+        {
+            "title": "Valčíček",
+            "artist": "Nevědi"
+        },
+        {
+            "title": "Válka růží",
+            "artist": "Spirituál kvintet"
+        },
+        {
+            "title": "Vodácká holka",
+            "artist": "Hop Trop"
+        },
+        {
+            "title": "Vyznavači ohňů",
+            "artist": "Kamelot"
+        },
+        {
+            "title": "Zabili zabili",
+            "artist": "Iva Bittová"
+        },
+        {
+            "title": "Zafůkané",
+            "artist": "Fleret"
+        }
+    ]
+}
