@@ -73,7 +73,7 @@ for songbook in songbook_file_list:
     final["songbooks"].append({
         "title": data["title"],
         "subtitle": data["subtitle"],
-        "file": folder_path_songbooks
+        "file": songbook
     })
 
 final["songs"] = songs
