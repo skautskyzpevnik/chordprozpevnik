@@ -14,7 +14,7 @@ už tě d[C]ál nehledám.
 {eov:*}
 
 
-{start_of_chorus}
+{start_of_chorus: R1}
 [Emi]Amélie, Amélie
 [D]všechno, co [C]nesmím vzdát
 Amélie, Amélie
@@ -30,7 +30,7 @@ Mám problém - hledám tě vším, co mám, mám problém, když najdu tě
 už tě dál nehledám, kolikrát ještě zakřičím do tmy?
 kolikrát ještě uslyším, to svý
 
-{start_of_chorus}
+{start_of_chorus: R2}
 Amélie, Amélie
 vždycky o kousekdál
 Amélie, Amélie
@@ -41,10 +41,7 @@ Amélie, Amélie
 jaktěla se vpíjí
 {end_of_chorus}
 
-{chorus}
+{chorus: R2}
 
-{start_of_chorus}
-Amélie, Amélie
-Všechno, co nesmím vzdát...
-{end_of_chorus}
+{chorus: R1}
 

@@ -1,7 +1,7 @@
 {title: Bitva u Harlaw}
 {artist: Asonance}
 
-D, G, D, G, D, G, D, Hmi
+[D][G][D][G][D][G][D][Hmi]
 Když jsem se vracel z Dunidier
 když z Dunidier jsem šel
 tu divný hluk jsem mezi kopci
@@ -32,8 +32,9 @@ než slunce zapadlo
 padesát tisíc mužů s ním
 teď táhne na Harlaw
 
-G, A, D
-
+{sov}
+[G][A][D]
+{eov}
 {start_of_chorus}
 Dý da darum dá, da darum dá,
 da daryá denda dej…

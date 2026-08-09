@@ -6,7 +6,7 @@
 [A]Jednou hrana zazvoní i t[C#mi]ěm jezdcům na koních,
 [Hmi]co stále ve[E]dou svou cestou šedou
 
-{start_of_chorus}
+{start_of_chorus: R1}
 [A]A pak, koně klus promění [C#mi]v cval,
 nic stejné nebud[F#mi]e dál, svě[E]t promění se
 [A]Pak, koně klus promění v[C#mi] cval,
@@ -18,15 +18,9 @@ a začne bít, zavládne klid
 Oči jezdců spatří svit obzoru, kam chtěli jít,
 kde spočinou, kde spočinou
 
-{start_of_chorus}
-A pak, koně klus promění v cval,
-nic stejné nebude dál, svět promění se
-Pak, koně klus promění v cval,
-nic stejné nebude dál, svět promění se
-{end_of_chorus}
+{chorus: R1}
 
-
-{start_of_chorus}
+{start_of_chorus: R2}
 Pak, koně klus promění v cval,
 nic stejné nebude dál, svět promění se
 Pak, koně Klus promění v cval,

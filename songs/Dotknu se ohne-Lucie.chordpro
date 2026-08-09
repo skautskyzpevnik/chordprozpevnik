@@ -1,7 +1,9 @@
 {title: Dotknu se ohně}
 {artist: Lucie}
 
+{sov}
 Basový[Emi] sbor Ó[G]      [Emi]ó  ó    [G] [D]ó  ó [G] ó     [Emi] ó  ó
+{eov}
 
 [Emi]Já chci bejt sám
 [Ami]snad se ztratíš
@@ -12,10 +14,9 @@ Chci zůstat utajen,
 Vzpomínka z loňskejch dotyků
 Viděl jsem čistý nebe nad stromy,
 svítilo slunce bylo po dešti
-Fmaj7b5
 
 {sov:*}
-Dotkni se ohně
+[Fmaj7b5]Dotkni se ohně
 {eov:*}
 
 {start_of_chorus}
@@ -25,7 +26,9 @@ Dotkni se ohně
 [C]Hledej, hle[D]dej, mně me[Emi]zi kousky popela
 {end_of_chorus}
 
+{sov}
 Basový sbor: Ó    ó ó    ó ó ó    ó ó
+{eov}
 
 Po ránu a k večeru
 Probouzíš se a jdeš spát
@@ -41,21 +44,20 @@ Už chci bejt sám
 Dotknu se ohně
 {eov:*}
 
-{chorus}
+{chorus: R}
 
-{start_of_chorus}
+{start_of_chorus: R2}
 [C]Město [D]usíná  [Em]a je to zvláštní
 Za tmy mne vítr zvedá z prachu odkud jsem přiletěl
 Divný divný, byl jsem mezi kousky popela
 Dotýkal se ohně, i když ne docela
 {end_of_chorus}
 
-{start_of_chorus}
+{start_of_chorus: R3}
 Kolem tebe projdu se zavřenýma očima
 Jsou šedý, šedý a vlhký - je je je je je
 {end_of_chorus}
 
-{start_of_chorus}
-(fade out)
-{end_of_chorus}
+{chorus: R2}
+{sov}(fade out){eov}
 

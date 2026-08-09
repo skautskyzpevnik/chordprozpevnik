@@ -1,7 +1,7 @@
 {title: Counting Stars}
 {artist: One Republic}
 
-Ami, C, G, F
+[Ami][C][G][F]
 Lately, I’ve been, I’ve been losing sleep
 Dreaming about the things that we could be
 But baby, I’ve been, I’ve been praying hard
@@ -66,6 +66,7 @@ We’ll be, we’ll be counting stars
 
 Ooohhh...
 
+{soc}
 Take that money Watch it burn
 Sink in the river The lessons I learned
 Take that money Watch it burn
@@ -74,8 +75,11 @@ Take that money Watch it burn
 Sink in the river The lessons I learned
 Take that money Watch it burn
 Sink in the river The lessons I learned
+{eoc}
 
+{sov: +}
 Everything that kills me ... makes me feel alive
+{eov}
 
 Lately, I’ve been, I’ve been losing sleep
 Dreaming about the things that we could be
@@ -89,12 +93,5 @@ But baby, I’ve been, I’ve been praying hard
 Said no more counting dollars
 We’ll be, we’ll be counting stars
 
-Take that money Watch it burn
-Sink in the river The lessons I learned
-Take that money Watch it burn
-Sink in the river The lessons I learned
-Take that money Watch it burn
-Sink in the river The lessons I learned
-Take that money Watch it burn
-Sink in the river The lessons I learned
+{chorus}
 

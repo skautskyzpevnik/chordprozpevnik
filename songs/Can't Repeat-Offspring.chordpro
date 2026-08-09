@@ -8,17 +8,19 @@
 [C]I can‘t grab onto what‘s to come
 [F]And I‘m just wishi[G]ng I could stop, but
 
-{start_of_chorus}
+{start_of_chorus: R1}
 Life [Ami]goes on
 Com[C]e of age
 Can‘t h[F]old on
 Turn [G]the page
 {end_of_chorus}
 
+{soc: R2}
 Time rolls on
 Wipe these eyes
 Yesterday laughs
 Tomorrow cries
+{eoc}
 
 Memories are bittersweet
 The good times we can‘t repeat
@@ -27,11 +29,9 @@ Now we must move ahead
 Despite our fear and dread
 We‘re all just wishing we could stop, but
 
-{start_of_chorus}
-Life goes on...
-{end_of_chorus}
+{chorus: R1}
 
-Time rolls on...
+{chorus: R2}
 
 With all our joys and fears
 Wrapped in forgotten years
@@ -40,11 +40,8 @@ Time tears down what we‘ve made
 And sets another stage
 And I‘m just wishing we could stop
 
-{start_of_chorus}
-Life goes on...
-{end_of_chorus}
+{chorus: R1}
 
-Time rolls on...
+{chorus: R2}
 
-Time rolls on
-
+{chorus: R2}

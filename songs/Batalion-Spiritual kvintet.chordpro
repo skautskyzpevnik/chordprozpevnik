@@ -1,8 +1,10 @@
 {title: Batalion}
 {artist: Spirituál kvintet}
 
-+ [Dmi]: Vín[F]o máš[C] a m[Dmi]arkytánku,[F] dlou[C]há [Dmi]noc se prohýří,
+{sov: +}
+[Dmi]: Vín[F]o máš[C] a m[Dmi]arkytánku,[F] dlou[C]há [Dmi]noc se prohýří,
 víno máš a chvilku spánku, díky, díky, verbíři.
+{eov}
 
 [Dmi]Dříve než se rozední,[F] kapitá[C]n k os[Dmi]edlán[Ami]í rozkaz dává,
 [Dmi]ostruhami do s[C]labin[Dmi] koně[Ami] pohá[Dmi]ní.
@@ -21,11 +23,7 @@ na polštáři z kopretin budou věčně spát.
 Neplač sladká Marion, verbíři nové chlapce přivedou ti,
 za královský hermelín, padne každý rád.
 
-{start_of_chorus}
-Víno na kuráž ...
-{end_of_chorus}
+{chorus}
 
-{sov:*}
-Víno máš a markytánku ...
-{eov:*}
+=+
 
