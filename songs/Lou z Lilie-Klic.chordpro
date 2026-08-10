@@ -6,7 +6,7 @@ má[C] čertů ro[F]hy, křídla [C]anděl[G]ů, pův[C]ab lesních víl,
 kdo strávil s ní[F] pár ch[C]vil, jak š[G]ampaňské by pil,
 m[C]á úsměv tu[F]pců, trubc[C]ů závr[G]atě pro[C] ni, pro Lou z Lille.
 
-{start_of_chorus}
+{start_of_chorus: R1}
 Ja[C]ko srpky lu[F]ny bok[C]y tenké má[G] a úsměv velkých dam,
 tak s[C]e lehce[F] vzn[C]áší n[G]ad zemí[C], letí[G], vůbe[C]c netuší, kam,
 jako srpky lu[F]ny boky[C] tenké má [G]a úsměv velkých dam,
@@ -22,7 +22,7 @@ a p[D]řesto kaž[G]dý kluk chc[D]e nára[A]mně [D]tam, kde ona, být.
 {eov:*}
 
 
-{start_of_chorus}
+{start_of_chorus: R2}
 Ja[D]ko srpky lu[G]ny bok[D]y tenké má[A] a úsměv velkých dam,
 tak s[D]e lehce[G] vzn[D]áší n[A]ad zemí[D], letí[A], vůbe[D]c netuší, kam,
 jako srpky lu[G]ny boky[D] tenké má [A]a úsměv velkých dam,
@@ -34,7 +34,7 @@ tohle do košíku každý na trhu zadarmo jí dá,
 a báby závidí, mají každé ráno zlost,
 a my si ji tu pěkně hýčkáme jen tak, pro radost.
 
-{chorus}
+{chorus: R1}
 
 {sov:X}
 On[D]a jmenu[G]je se[D] Lou a po[A]chází prý z Lille,

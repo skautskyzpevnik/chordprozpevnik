@@ -12,9 +12,8 @@ snad zjistíme, že vrásky jsou jen převlečený smích,
 kam vedou čáry na dlaních
 a že je[D] zbytečné se b[A]át.
 
-{start_of_chorus}
-D                        A
-Dáme zítřkům naviděnou
+{start_of_chorus: R1}
+Dáme[D] zítřkům naviděno[A]u
 uprostřed [Hmi]města nazí
 všedních [G]dnů vrazi
 proje[D]deme na červeno[A]u nocí
@@ -37,17 +36,9 @@ snad zjistíme, že vrásky jsou jen převlečený smích,
 kam vedou čáry na dlaních
 a že je zbytečné se bát.
 
-{start_of_chorus}
-Dáme zítřkům naviděnou,
-uprostřed města nazí,
-všedních dnů vrazi,
-projedeme na červenou nocí
-a nepůjdeme spát.
-Dáme zítřkům naviděnou,
-uprostřed města nazí,
-všedních dnů vrazi,
-projedeme na červenou
-a rána nenecháme vstát.
+{chorus: R1}
+
+{soc: R2}
 Dáme zítřkům naviděnou
 uprostřed města nazí
 všedních dnů vrazi

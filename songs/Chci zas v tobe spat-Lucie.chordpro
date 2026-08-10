@@ -6,7 +6,7 @@
 [G]temnice tmav[Hmi]á vříská, bleskne tmou,
 [Emi]mý vlasy loučí ví[C]ská, letí nad vodou
 
-{start_of_chorus}
+{start_of_chorus: R1}
 [D]A hrubý síly[C] vzývám, s[G]nídám bezpráví,
 [D]tvý voči v hlavě[Ami] vídám, je to všechno jedna velká síla,
 [Emi]jestli se vážně ho[C]díš, nevím nejdu spát,
@@ -16,7 +16,7 @@
 [C]postelový král[D]ovství za kon[C]ě nechce se mi dát,
 {end_of_chorus}
 
-{start_of_chorus}
+{start_of_chorus: R2}
 [C]jsem n[D]a tom stejn[Emi]ě mám tě rád,
 [C]jablke[D]m, jablkem nejsi,
 [Ami]kousnu hloubš a zlíbám tě celou
@@ -29,10 +29,11 @@ až naše hvězda zhasne, haudy haudy hej,
 štěstím se lůza rodí, neříkám,
 hledá pravdu, rodí, neví, nesvlíká se lásko
 
-R1+R2:
+{chorus: R1}
+{chorus: R2}
 
-[Emi]Emi   [Emi]                 [Emi] [Emi][C][C][Emi][Emi][C][D]C
-Sami se k břehům kloníme, sami jak bezvládnej proud,
+[Emi][Emi][Emi] [Emi][C][C][Emi][Emi][C][D]
+[Emi]Sami se k břehům [C]kloníme, sami jak bezvládnej proud,
 [Emi]sami se proti vlnám [C]stavíme, sami se chcem zbavit těch pout,
 [Emi]sami se k břehům k[C]loníme, sami jak bezvládnej proud,
 [Emi]sami se proti vlnám [C]st[D]avíme.

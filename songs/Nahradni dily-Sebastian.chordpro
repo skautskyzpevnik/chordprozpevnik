@@ -16,7 +16,7 @@ Motor c[F]o tě zkouší táhnout,
 byť [Dmi]já sám jsem uvízl dávno,
 [G]na mrtvým bodě.
 
-{start_of_chorus}
+{start_of_chorus: R1}
 [F]Řekni mi vá[G]žně, máš mě,
 [C]jen na náhradní[Ami] díly?
 [F]Řekni mi v[G]ážně, vášně jak [C]dovedou mě k cíl[Ami]i?
@@ -38,16 +38,14 @@ Roky slibuješ mým uším
 Tak jsem jednou nohou v nebi,
 jen kdybych tou druhou nebyl,
 v průseru.
-Řekni mi vážně, máš mě,
-jen na náhradní díly?
-Řekni mi vážně, vášně jak dovedou mě k cíli?
-Řekni mi vážně, máš mě,
-za blázna, co v honbě za zázrakem
-po tvým boku půjde
-dokud nestane se nepojízdným vrakem.
+
+{chorus: R1}
+{sov: +}
 Jen na náhradní díly
 Jak dovedou mě k cíli
+{eov}
 
+{soc: R2}
 Řekni mi vážně, máš mě,
 jen na náhradní díly?
 Řekni mi vážně, vášně nedovedou mě k cíli?
@@ -55,4 +53,4 @@ jen na náhradní díly?
 za blázna, co v honbě za zázrakem
 po tvým boku půjde
 dokud nestane se nepojízdným vrakem.
-
+{eoc}

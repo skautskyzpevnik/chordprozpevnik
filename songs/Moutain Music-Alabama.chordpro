@@ -30,12 +30,12 @@ Bend it over, skinnin' cats
 Playin' baseball with chert rocks
 Usin' sawmill slabs for bats
 
-+ : Play [A]some back-[D]home come-on music
+{sov: +}
+Play [A]some back-[D]home come-on music
 tha[A]t comes from[D] the heart
 Pla[A]y something with l[D]ots of feel-in'
 'cause that's [Hmi]where musi[E]c has to start.
+{eov}
 
-{start_of_chorus}
-Oh, play me some mountain music...
-{end_of_chorus}
+{chorus}
 

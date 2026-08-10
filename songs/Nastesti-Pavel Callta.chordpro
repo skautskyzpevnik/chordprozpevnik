@@ -19,9 +19,8 @@ Vždyť je to tak fajn když k ránu
 [Ami]tak to zvládnu
 [C]
 
-{start_of_chorus}
-Neštěstí
-naštěstí nosí střepy
+{start_of_chorus: R1}
+Neštěstí naštěstí nosí střepy
 [G]Ze střepů štěstí svý Zase slepím
 [Ami]V neštěstí naštěstí Jak známo
 [F]Štěstí svý najít smíš nejspíš
@@ -42,7 +41,7 @@ Se děje co má se stát
 A když to nevyjde
 tak to zvládnu
 
-{start_of_chorus}
+{start_of_chorus: R2}
 Číslo se mi z ruky smylo
 Holka s copem mojí milou
 Zřejmě nemá být
@@ -57,8 +56,6 @@ To všechno co má se stát
 a když jen počkám si
 tak to vyjde
 
-{start_of_chorus}
-2x
-Naštěstí...
-{end_of_chorus}
+{chorus: R1}
+{chorus: R1}
 

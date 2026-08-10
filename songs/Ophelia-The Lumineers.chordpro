@@ -11,7 +11,7 @@ Feels like she's on top
 And I don't feel no remorse
 And you can't see past my blindness
 
-{start_of_chorus}
+{start_of_chorus: R1}
 Oh, Ophelia
 You've been on my mind, girl, since the flood
 Oh, Ophelia
@@ -26,20 +26,13 @@ And you can't feel nothing small
 Honey, I love you
 That's all she wrote
 
-{start_of_chorus}
+{start_of_chorus: R2}
 Oh, Ophelia
 You've been on my mind, girl, like a drug
 Oh, Ophelia
 Heaven help the fool who falls in love
 {end_of_chorus}
 
-Oh, Ophelia
-You've been on my mind, girl, since the flood
-Oh, Ophelia
-Heaven help the fool who falls in love
+{chorus: R1}
 
-Oh, Ophelia
-You've been on my mind, girl, like a drug
-Oh, Ophelia
-Heaven help the fool who falls in love
-
+{chorus: R2}

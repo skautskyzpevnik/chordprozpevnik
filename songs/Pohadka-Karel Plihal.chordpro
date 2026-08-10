@@ -1,9 +1,12 @@
 {title: Pohádka}
 {artist: Karel Plíhal}
 
-G, C, G, Am,i G, D, G, C, G, Ami, G, Emi
+{sov}
+[G][C][G][Ami][G][D][G][C][G][Ami][G][Emi]
+{eov}
 
-Rec: Takhle nějak to bylo:
+{sov: Rec}
+Takhle nějak to bylo:
 jedlo se, zpívalo, pilo,
 princezna zářila štěstím
 v hotelu nad náměstím,
@@ -29,6 +32,7 @@ náhle se za oknem objevil skřítek,
 rozhrnul oponu z máminejch kytek,
 pěkně se usmál a pěkně se podíval
 a pak mi po očku do ucha zazpíval:
+{eov}
 
 {start_of_chorus}
 [G]Dej mi r[D]uku svou,[Emi] studenou o[Hmi/D]d okenních skel,
@@ -36,7 +40,8 @@ všichni[C] tě mezi[Hmi/D] sebe zvou
 a[C] já jse[D]m tu pro[G]to, ab[Emi]ys šel[Hmi/D][C][G][D].
 {end_of_chorus}
 
-Rec: Na plný obrátky letíme světem,
+{sov: Rec}
+Na plný obrátky letíme světem,
 všechny ty pohádky patřily dětem,
 dneska už se neplatí buchtama za skutky,
 sudičky sesmolí kádrový posudky,
@@ -46,6 +51,7 @@ jak se mi za oknem objevil skřítek,
 rozhrnul oponu z máminejch kytek,
 pěkně se usmál a pěkně se podíval
 a pak mi po očku do ucha zazpíval:
+{eov}
 
 {chorus}{chorus}
 

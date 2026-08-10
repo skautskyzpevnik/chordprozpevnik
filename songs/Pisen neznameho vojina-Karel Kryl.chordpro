@@ -1,8 +1,10 @@
 {title: Píseň neznámého vojína}
 {artist: Karel Kryl}
 
-Rec: Zpráva z tisku: 'Obě delegace položily pak věnce na hrob
+{sov: Rec}
+Zpráva z tisku: 'Obě delegace položily pak věnce na hrob
 Neznámého vojína.' A co na to Neznámý vojín?
+{eov}
 
 V č[Ami]ele klaka, pak ctnostné rodiny a náruč chryzantém[E7],
 černá saka a žena hrdiny pod paží s amant[Ami]em[E7],
@@ -20,7 +22,6 @@ ještě jednou se trapně polyká nad hrobem s lucernou.
 Co tady civíte? Zkoušíte vzdechnout,
 copak si myslíte, že jsem chtěl zdechnout?
 Z lampasů je nám zle, proč nám sem leze?
-
 Kašlu vám na fangle! Já jsem chtěl kněze!
 
 Nejlíp je mi, když kočky na hrobě v noci se mrouskají,

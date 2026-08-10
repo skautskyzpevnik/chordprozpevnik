@@ -15,16 +15,19 @@ chc[A]i vzývat[Hmi] jak boha[D] tvůj klín,
 chci líbat tě na[F#mi] tvoje ústa.
 {end_of_chorus}
 
-D, A, F#mi, D, A
+{sov}
+[D][A][F#mi][D][A]
+{eov}
 
 Že byl jsem jak blázen, že byl se mnou kříž,
 jen ty mě znáš jen ty jediná víš,
 tu správnou odpověď na otázku odkud kudy a kam.
 
-{start_of_chorus}
-+
+{chorus}
+
+{sov: +}
 [E]chci vzývat jak b[F#mi]oha tvůj klín.
-{end_of_chorus}
+{eov}
 
 
 {start_of_chorus}
@@ -50,5 +53,6 @@ jen s tebou po uši v hříchu lásko,
 jen s tebou hodlám tu žít.
 {end_of_chorus}
 
+{sov: +}
 Chci líbat tě na tvoje ústa
-
+{eov}

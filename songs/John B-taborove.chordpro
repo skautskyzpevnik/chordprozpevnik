@@ -6,7 +6,7 @@ už vyplouvá loď "John B",
 okamžik malý jen,
 než pop[D]lujem dál.
 
-{start_of_chorus}
+{start_of_chorus: R1}
 Tak nec[G]hte [G7]mě plout,
 tak necht[C]e m[C7]ě plout,
 [G]sil už má[D7]lo mám,
@@ -18,23 +18,21 @@ na zdraví všem připil,
 vím, že cesta má
 konec už má.
 
-{start_of_chorus}
-Tak nechte mě plout...
-{end_of_chorus}
+{chorus: R1}
 
 Sklenici svou dopil,
 za krátko u mě byl,
 okovy na ruce dal
 a pistole vzal
 
-R*: Šerif John Stone,
+{soc: R*}
+Šerif John Stone,
 šerif John Stone,
 moji svobodu vzal
 šerif John Stone.
+{eoc}
 
-Už vyplouvá loď "John B"...
+=1
 
-{start_of_chorus}
-Tak nechte mě plout...
-{end_of_chorus}
+{chorus: R1}
 

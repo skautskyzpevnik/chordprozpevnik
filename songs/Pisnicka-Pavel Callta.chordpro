@@ -20,7 +20,7 @@ na něco v kapse šmátrá.
 „Ukažte mi svou lítačku.“
 [E]Revizorka.pro dobrotu na ž[C#mi]ebrotu!
 
-{start_of_chorus}
+{start_of_chorus: R1}
 A tak [A]zpívám, zpívám dál[E],
 přijímám vš[C#mi]echno, co mi život dal [D]i vzal[E].
 Tyhle[F#mi] tóny zpívám rád[E].
@@ -52,17 +52,7 @@ který má nejsvůdnější kučery,
 takhle mám jen lysinu,
 milý synu.
 
-{start_of_chorus}
-A tak zpívám, zpívám dál,
-přijímám všechno, co mi život dal i vzal.
-Tyhle tóny zpívám rád.
-po písničce v klidu spát.
-Hej!
-Na na na na na na na
-Na na na na na na na
-Na na na na na na na
-Na na na na na na na
-{end_of_chorus}
+{chorus: R1}
 
 Zpátky do přítomnosti,
 obrazu složitosti,
@@ -84,7 +74,7 @@ na opuštěný místní hřiště,
 a jak to dopadlo,
 si povíme zas příště!
 
-{start_of_chorus}
+{start_of_chorus: R2}
 A tak zpívám, zpívám dál,
 přijímám všechno, co mi život dal i vzal.
 Tyhle tóny zpívám rád.
@@ -112,18 +102,11 @@ jímala se mě zloba,
 Liborek teď bručí v cele,
 tenkrát dělal učitele!
 
-{start_of_chorus}
+{start_of_chorus: R3}
 A tak zpívám, zpívám dál,
 přijímám všechno, co mi život dal i vzal.
 Tyhle tóny zpívám rád.
 po písničce v klidu spát.
 {end_of_chorus}
 
-
-{start_of_chorus}
-A tak zpívám, zpívám dál,
-přijímám všechno, co mi život dal i vzal.
-Tyhle tóny zpívám rád.
-po písničce v klidu spát.
-{end_of_chorus}
-
+{chorus: R3}

@@ -8,7 +8,7 @@ vyplaz[G]uje jazy[Ami]k touh[G]u vzývá
 Tak tedy, ta[Ami]k tedy ochutnáme jiný hloubku
 je vydán [G]zákaz strach[Ami]u nes[G]míš se bát
 
-{start_of_chorus}
+{start_of_chorus: R1}
 [D]On[A]a ví, k[Ami]dyž tančí j[G]e tak krásná
 kdy[Gmi]ž její hvěz[F]da jasn[A]á zazáří
 Ona ví když sladkou píseň zpívá
@@ -20,9 +20,9 @@ kapky udeří do kůži tamburin
 Potom vychutnáme sladké ticho
 A když se zeptáč já ti odpovím
 
-{chorus}
+{chorus: R1}
 
-{start_of_chorus}
+{start_of_chorus: R2}
 Ona ví, kde anděl šípy skrývá
 kde čistá voda živá pramení
 Já .. s tebou kráčím ve stopách
@@ -32,14 +32,9 @@ a pod nohama horká p[E]oušť tak kde tě mám
 Je t[D]o lá[A]ska, je [G]tu o[A]dpověď
 Je t[G]o láska [A]..
 
-{chorus}
+{chorus: R1}
 
-{start_of_chorus}
-Ona ví, kde anděl šípy skrývá
-kde čistá voda živá pramení
-Tak tedy Já .. s tebou kráčím ve stopách
-a pod nohama horká poušť tak kde tě má
-{end_of_chorus}
+{chorus: R2}
 
 Až dospívám Ti píseň svojí bude ráno,
 bude ráno, bude den.

@@ -21,7 +21,7 @@ So [F#mi]Youre crusading to t[C#mi]ear us apart
 But it's[D] clear no[E]w, I know y[F#mi]ou're go[C#mi]nna leave me
 So di[D]sappear n[E]ow, I won't [A]get in your way
 
-{start_of_chorus}
+{start_of_chorus: R1}
 [A]Ohh[E], let me [F#mi]down easy.
 [C#mi]Let me dow[D]n ea[E]sy oh bef[A]or[E]e you go
 [A]Ohh,[E] let me d[F#mi]own easy.
@@ -35,7 +35,7 @@ You[A]r heavy heart's t[E]aken its toll
 You'[F#mi]ve lost all the magic insi[C#mi]de of your soul
 So[D] sell me a l[E]ie before yo[A]u hit the road
 
-{start_of_chorus}
+{start_of_chorus: R2}
 Oh let me down easy... (2x)
 ..[C#mi].Let me dow[D]n e[E]asy oh bef[A]ore[A7] you go oh yeah
 {end_of_chorus}
@@ -52,9 +52,8 @@ and[E] leave me with my pride
 {eov:*}
 
 
-{start_of_chorus}
-Oh let me down easy...
-{end_of_chorus}
+{chorus: R2}
 
+{sov}
 Night and day I've been doing the math...
-
+{eov}

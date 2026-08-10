@@ -1,8 +1,7 @@
 {title: Lilie Skautská}
 {artist: Taxmeni}
 
-D         A         G
-Na léta klukovský si     často vzpomí    nám,
+Na léta klukovs[D]ký si     [A]často vz[G]pomí    nám,
 [D]na první[A]           [A7]skautskej slib, na jeho krásný    slo       va,
 [D]a v duch[A]u s       [G]bráchou zas pod            stanem usí        nám,
 [D]skončil [A]den       [D]v táboře, a        do tmy houká   sova.
@@ -19,7 +18,6 @@ Lil[D]ie          [A]skautská[G],          [D]ohněm k[A]ale       [A7]ná, má
 
 Poslední prázdniny bratr řek' akorát skautskýmu slibu, že zůstanem věrní
 a tak nám na podzim přišili na kabát vojenský výložky, jak saze černý.
-
 když jsme pak po vojně svobodní chtěli být,
 zbylo nám jediný, na západ přejít čáru,
 novýho bobříka odvahy ulovit, usínat pod stanem a hrávat na kytaru.
@@ -33,17 +31,13 @@ Vidím tu krutou noc, vidím vše jako dnes,
 plazím se po břiše, kolem nás ostnatej drát,
 zableskly výstřely a po krku skočil pes,
 tys bratře odešel do věčnejch lovišť spát.
-
 To už mi nebylo, bráško můj, do tance, ani jsem nemoh' ti naposled zamávat,
 na rukách pouta a k tomu kopance, před sebou uran na osm let dolovat.
 
-{start_of_chorus}
-Lilie skautská, ohněm kalená, máme ji v sobě, v nás nikdy nezvadne,
-dej Bůh, ať hvězda krví zbarvená už jednou provždy zapadne.
-{end_of_chorus}
+{chorus}
 
-Lilie skautská, v ohni kalená, máme ji v srdcích, tam nikdy nezvadne,
-dej Bůh, ať hvězda krví zbrocená, do bláta už navždy zapadne.
+{chorus}
 
-: Lilie skautská, ohněm kalená...
-
+{sov}
+Lilie skautská, ohněm kalená...
+{eov}
