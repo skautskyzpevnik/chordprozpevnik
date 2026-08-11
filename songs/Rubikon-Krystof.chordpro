@@ -1,14 +1,14 @@
 {title: Rubikon}
 {artist: Kryštof}
 
-{start_of_chorus}
+{start_of_chorus: R1}
 Př[D]es vlny Rubikonu k tobě výš,
 jako k[Hmi]dyž stoupá rtuť
 Skr[Emi]z Amorovy šípy ucítíš,
 jak se [G]ti napne hruď
 {end_of_chorus}
 
-{chorus}
+{chorus: R1}
 
 Potic[Hmi]hu krást, jen tvůj st[Emi]ín za záclonou,
 Když tužby[G/E] ve mně tonou
@@ -17,7 +17,7 @@ A[Hmi] zmást
 Tvůj pohle[Emi]d do kukátka, Den je dlouh[G/E]ý, noc je krátká
 Jsi dů[A/F#]vod pro sonety vrytý v kastaněty
 
-{chorus}
+{chorus: R1}
 
 Tiše [Hmi]se snést a vpít s[Emi]e do koberců,
 jak posledn[G/E]í ze šílenců
@@ -27,12 +27,15 @@ a v podko[Emi]lení jamce
 spát  jako [G/E]lupič v bance.
 Jsi dů[A/F#]vod k odpovědi, proč jít ke zpovědi
 
-{start_of_chorus}
+{start_of_chorus: R2}
 [G]A Lhát, a kát se při[A]tom nadvakrát
 [G]lhát a stát dál v [A]příšeří
 [G]lhát a každým[A] pórem těla sát
 vůně z[G]pod dveří, tvé vůně [A]zpod dveří...
 {end_of_chorus}
 
-{chorus}{chorus}{chorus}{chorus}
+{chorus: R1}
+{chorus: R1}
+{chorus: R1}
+{chorus: R1}
 

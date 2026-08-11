@@ -11,7 +11,7 @@ odvádí beze stínu
 se skřípěním kostí, kloubů a šlach
 svou vznešenou denní dřinu.
 
-{start_of_chorus}
+{start_of_chorus: R1}
 Suff[F]olkský ry[G]zák i bělavý shir[C][F]e
 na svých[Dmi] mohutných k[G]řídlech s n[Ami]ámi
 v[F]lečou svou klá[G]du do s[C]etmě[Ami]ní
@@ -32,7 +32,7 @@ a osmnáct postraňků k tomu,
 a jednou, až svět bude plný těch svých
 temných a studených domů.
 
-{start_of_chorus}
+{start_of_chorus: R2}
 Opět se pustíš do světových stran
 a nad šarmem tvým budem němí,
 znovu se opřeš do záblesků bran
@@ -44,7 +44,7 @@ a v bitevní zbroji září,
 staří jak svět, ale mladí jak vzdor,
 s úzkou a pevnou tváří.
 
-{start_of_chorus}
+{start_of_chorus: R3}
 [Ami]Sežeň mi [G]loukotě z dub[C]ových dře[F]v
 a planinu s[G]krytou v kouři[Ami],
 [F]tažnýho ko[G]ně a zpěn[C]ěnou krev[Ami],
@@ -58,5 +58,6 @@ a[C] bu[D]rcuj[G]í své [Emi]kočí s vlí[C]dn[D]ou [C]gr[D]ácií[Emi],
 {end_of_chorus}
 
 =1.
-{chorus}
+
+{chorus: R3}
 

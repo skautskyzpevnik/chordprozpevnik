@@ -20,7 +20,9 @@ co na svou krásu nevěří.
 
 {chorus}
 
-[mezihra:|[E][H7][A][E][A][H7][E][H7][A][E][A][H7][E]
+{sov: mezihra}
+[E][H7][A][E][A][H7][E][H7][A][E][A][H7][E]
+{eov}
 
 {chorus}
 
@@ -29,7 +31,8 @@ srdce jsem jí udělal
 a večer, když už začly lítat můry,
 tajně jí ho do spacáku dal.
 
-{start_of_chorus}
-+ [[A]: jedna ho[H7]lka, c[E]o mám rád :|
-{end_of_chorus}
+{chorus}
 
+{sov: +}
+|: [A]jedna ho[H7]lka, c[E]o mám rád :|
+{eov}

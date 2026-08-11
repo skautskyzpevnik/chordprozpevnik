@@ -1,7 +1,7 @@
 {title: Stay with me}
 {artist: Sam Smith}
 
-Am, F, C
+[Am][F][C]
 Guess it's true,
 I'm not good at a one night stand
 But I still need love 'cause I'm just man
@@ -25,8 +25,10 @@ Oh, won't you stay with me
 This ain't love, it's clear to see
 But darling, stay with me
 
+{sov}
 Oooh oh ooh oooh ooooh oh
 Oooh oh ooh oooh ooooh oh
+{eov}
 
 Oh, won't you stay with me
 'Cause you're all I need

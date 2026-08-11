@@ -1,9 +1,10 @@
 {title: Smells Like Teen Spirit}
 {artist: Nirvana}
 
-
+{sov}
 [E][A][G][C]
 [E][A][G][C]
+{eov}
 
 [E]Load[A] up on[G] guns
 B[C]ring yo[E]ur friends
@@ -46,8 +47,10 @@ He[A]llo, h[G]ello, h[C]ello
 
 {chorus: R}
 
+{sov}
 [E][A][G][C]
 [E][A][G][C]
+{sov}
 
 [E]An[A]d I fo[G]rget jus[C]t wh[E]y I taste
 Oh[A] yeah[G], I gues[C]s it ma[E]kes me smile

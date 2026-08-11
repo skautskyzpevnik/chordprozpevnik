@@ -11,7 +11,7 @@ Stíny tvý duše rozplynou se v šeru
 Ve vlnách opouští, po hodinách mizí
 A měsíc nový stíny vyplaší
 
-{start_of_chorus}
+{start_of_chorus: R1}
 Prou[C]d motýlů unáší strach
 Na li[F]sty sedá hvězdnej prach
 Prole[Ami]tí ohněm a mi[G]zí stále dál
@@ -25,12 +25,9 @@ Nebeský znamení, rosvěcujou hvězdy
 Všechno ví z povzdálí vedou naše kroky
 A měsíc nový stíny vyplaší
 
-{start_of_chorus}
-...
-{end_of_chorus}
+{chorus: R1}
 
-
-{start_of_chorus}
+{start_of_chorus: R2}
 Prou[C]d motýlů unáší strach
 Na li[F]sty sedá hvězdnej prach
 A no[Ami]vý stíny, a no[G]vý stíny vyplaší

@@ -13,9 +13,7 @@ a při chůzi tělem sem tam kýval, před sebou sta sáhů.
 [C]v Čechác[G]h sl[F]ávu[C] muzikantů
 [Ami]umaza[Emi]nou o[Ami]d bláta.
 
-{start_of_chorus}
-Každý ráno boty zouval, ...
-{end_of_chorus}
+{chorus}
 
 Toužil najít studánečku
 a do ní se podívat,
@@ -27,8 +25,9 @@ to ses musel nachodit,
 abych já ti pravdu řekla,
 měl ses jindy narodit.
 
-{start_of_chorus}
-Každý ráno boty zouval, ... +
+{chorus}
+
+{sov: +}
 |: p[Ami]řed seb[Emi]ou sta s[Ami]áhů. :|
-{end_of_chorus}
+{eov}
 

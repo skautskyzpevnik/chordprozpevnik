@@ -12,14 +12,16 @@ But now I'm insecure and I care what people think.
 My name[F]'s 'Blurr[Dmi]yface' and I car[Ami]e what you think.
 My name's 'Blurryface' and I care what you think.
 
-{start_of_chorus}
+{start_of_chorus: R1}
 [F]Wish we [C]could tu[Ami]rn back ti[Emi]me, to the good ol' days,
 [Ami]When our [G]momm[C]a sang us t[E]o sleep but now we're stressed out.
 [Ami]Wish we cou[G]ld turn ba[C]ck time,[E] to the good ol' days,
 [Ami]When our m[G]omma san[C]g us to [E]sleep but now we're stressed out.
 {end_of_chorus}
 
+{sov}
 We're stressed out.
+{eov}
 
 [Ami]Sometimes a certain sm[G]ell will take me back to when I was young,
 [Dmi]How come I'm neve[C]r able to identify where it's coming from,
@@ -34,7 +36,7 @@ Out o[Ami]f student loans and treehouse homes we all would take the latter.
 My name[F]'s 'Blurr[Dmi]yface' and I car[Ami]e what you think.
 My name's 'Blurryface' and I care what you think.
 
-{start_of_chorus}
+{start_of_chorus: R2}
 [F]Wish we [C]could tu[Ami]rn back ti[Emi]me, to the good ol' days,
 [Ami]When our [G]momm[C]a sang us t[E]o sleep but now we're stressed out.
 [Ami]Wish we cou[G]ld turn ba[C]ck time,[E] to the good ol' days,
@@ -47,12 +49,7 @@ Saying[C], "Wake up, you [F]need to make money."
 {end_of_chorus}
 
 
-{start_of_chorus}
-[F]Wish we [C]could tu[Ami]rn back ti[Emi]me, to the good ol' days,
-[Ami]When our [G]momm[C]a sang us t[E]o sleep but now we're stressed out.
-[Ami]Wish we cou[G]ld turn ba[C]ck time,[E] to the good ol' days,
-[Ami]When our m[G]omma san[C]g us to [E]sleep but now we're stressed out.
-{end_of_chorus}
+{chorus: R1}
 
 [F]Used to play pre[Dmi]tend, used to play pretend, bunny
 [Ami]We used to play pretend, wake up, you need the money

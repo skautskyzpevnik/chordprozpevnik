@@ -5,8 +5,7 @@
 
 [Dmi]Come up t[B]o meet you, tel[F]l you I'm sorry, [F9]you don't know how lovely you are
 [Dmi]I had to fi[B]nd you, tell yo[F]u I need you, [F9]tell you I'll set you apart
-[Dmi]Tell me your [B]secrets and ask[F] me your ques[F9]tions, oh lets go back to the
-start
+[Dmi]Tell me your [B]secrets and ask[F] me your ques[F9]tions, oh lets go back to the start
 [Dmi]Running in [B]circles, cha[F]sing tails, heads[F9] on a science apart
 
 {start_of_chorus}
@@ -17,7 +16,9 @@ start
 Oh, take me ba[F]ck t[B]o t[F]he start
 {end_of_chorus}
 
-Dmi, B, F, F9
+{sov}
+[Dmi][B][F][F9]
+{eov}
 
 I was just guessing numbers and figures, pulling the puzzles apart
 Questions of science, science and progress, do not speak as loud as my
@@ -33,5 +34,6 @@ Noone ever said it would be so hard
 I'm going back to the start
 {end_of_chorus}
 
-[Dmi]oh oo[B]oo[F]h[F9][(4x)]'
-
+{sov}
+|: |: [Dmi]oh oo[B]oo[F]h[F9] :| :|'
+{eov}

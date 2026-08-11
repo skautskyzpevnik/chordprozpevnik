@@ -6,7 +6,7 @@ píseň divnou začal hrát, vím [G7]proč vítr teď přestal vát,
 good[C] by Joe, good by Joe
 [D]šest bílých koní už [G]mě veze tmou
 
-{start_of_chorus}
+{start_of_chorus: R1}
 [G]Sbo[C]hem všichni, co jsem znal,
 [D]já už slyším zlatý[G]ch kopyt cval.
 {end_of_chorus}
@@ -16,7 +16,7 @@ noc bez hvězd a bez mraků, jenom šest bílých oblaků,
 good by Joe, good by Joe,
 šest bílých koní už mě veze tmou.
 
-{start_of_chorus}
+{start_of_chorus:R2}
 Sbohem vše, co měl jsem rád,
 já už vidím bílý hřívy vlát.
 {end_of_chorus}
@@ -26,9 +26,7 @@ píseň divnou začal hrát, vím proč vítr teď přestal vát,
 good by Joe, good by Joe
 šest bílých koní už mě veze tmou
 
-{start_of_chorus}
-Sbohem všichni...
-{end_of_chorus}
+{chorus: R1}
 
 {sov:*}
 Goo[C]d by Irene, good by Irene,

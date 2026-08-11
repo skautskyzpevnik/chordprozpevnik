@@ -1,7 +1,9 @@
 {title: Self Esteem}
 {artist: Offspring}
 
-Ami, F, C, G, Ami, F, C, G, F, G, Ami
+{sov}
+[Ami][F][C][G][Ami][F][C][G][F][G][Ami]
+{eov}
 
 I wrote her off for the tenth time today,
 And practiced all the things I would say,
@@ -14,7 +16,7 @@ I took her back and made her dessert,
 [Ami]I kno[F]w sh[C]e's[G] playing with me,
 [Ami]That's[F] okay cause [C]I've[G] got no self esteem,
 
-{start_of_chorus}
+{start_of_chorus: R1}
 [Ami]Oooh[F] yeah.[C].[G].
 {end_of_chorus}
 
@@ -23,12 +25,9 @@ I wait till 2 then I turn out the light,
 [Ami]All th[F]is rejection's[C] go[G]t me so low,
 [Ami]If she[F] keeps it up[C] I j[G]ust might tell her so,
 
-{start_of_chorus}
-Oooh yeah...
-{end_of_chorus}
+{chorus: R1}
 
-
-{start_of_chorus}
+{start_of_chorus: R2}
 [Dmi]When she's[B] sayin[F]g that [C]she wants only me
 [Dmi]Then I w[B]onder why she [F]sleeps wi[C]th my friends
 When she's saying that I'm like a disease
