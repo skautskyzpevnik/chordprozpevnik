@@ -1,7 +1,10 @@
 {title: Tyrolák}
 {artist: Jirka Bosák}
 
-D, A
+{sov}
+[D][A]
+{eov}
+
 V těch tyrolských Alpách, tam to znáte snad,
 Žil ta se svou kozou mladý Tyrolák,
 chlupatý měl prsa, nahá kolena
@@ -9,7 +12,8 @@ mlíko bumbal z vemena.
 
 {start_of_chorus}
 Jóo, v Tyrolích tam je prima vzduch, samej kravinec a na něm plno much,
-tam Tyrolák holku miluje a přitom si jóodluje: 2xJodleidýýý, Jodleidýýý, Jodleidýýý, Jodleidýýý,
+tam Tyrolák holku miluje a přitom si jóodluje:
+|: Jodleidýýý, Jodleidýýý, Jodleidýýý, Jodleidýýý, :|
 {end_of_chorus}
 
 Ona byla krásná, jak květ lotosu,
@@ -17,28 +21,19 @@ nohy jak psí víno, nudli u nosu,
 zuby měla jako noty na buben,
 hlavu jako kedluben.
 
-{start_of_chorus}
-Jóo, v Tyrolích tam je prima vzduch, samej kravinec a na něm plno much,
-tam Tyrolák holku miluje a přitom si jóodluje: 2xJodleidýýý, Jodleidýýý, Jodleidýýý, Jodleidýýý,
-{end_of_chorus}
+{chorus}
 
 Když ji Tyrolák, učinil svou ženou,
 přivezl ji domů celou blaženou,
 jak ji koza uviděla v závoji,¨
 šlak ji trefil na hnoji.
 
-{start_of_chorus}
-Jóo, v Tyrolích tam je prima vzduch, samej kravinec a na něm plno much,
-tam Tyrolák holku miluje a přitom si jóodluje: 2xJodleidýýý, Jodleidýýý, Jodleidýýý, Jodleidýýý,
-{end_of_chorus}
+{chorus}
 
 V rodině pak byla velká porada,
 co s tou kozou, která mléko nedává,
 vemeno uřízli, ke stolu přibili
 a pak ten stůl dojili
 
-{start_of_chorus}
-Jóo, v Tyrolích tam je prima vzduch, samej kravinec a na něm plno much,
-tam Tyrolák holku miluje a přitom si jóodluje: 2xJodleidýýý, Jodleidýýý, Jodleidýýý, Jodleidýýý,
-{end_of_chorus}
+{chorus}
 

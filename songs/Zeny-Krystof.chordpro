@@ -4,7 +4,6 @@
 [C#mi]Se spánk[E]y z břidlicovýc[A]h střech,
 se zá[H]dy rtutě na v[C#mi]oknech,
 pár[E]y z broušen[A]ýho skla,
-
 se strh[H]ly váhy,
 mě každě[C#mi]j zná,
 tě každěj[E] zná,
@@ -21,7 +20,9 @@ tě každěj zná,
 tě každěj zná,
 a když mě ochutná,
 
-Recitativ: vím že, víš že.
+{sov: Recitativ}
+vím že, víš že.
+{eov}
 
 {start_of_chorus}
 [E]Nej[H]si ženou[F#mi] vobno[A]šenou,

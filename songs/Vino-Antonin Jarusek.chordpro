@@ -1,7 +1,7 @@
 {title: Víno}
 {artist: Antonín Jarůšek}
 
-Emi, C, G, D
+[Emi][C][G][D]
 Planou listy révy,
 když slunce zachází,
 k vinohradu míří dívka a ví,
@@ -23,7 +23,10 @@ když jí mezi prsty prýští
 šťáva hroznů mladé víno,
 bosou nohou hlavy tříští.
 
-2x (sólo - noty, NEakordy) H, A, H, A, H, D, H, A, E, D, H, H, A, H, A, H, D, H, A, f#, e, d, e, f#, A
+{c: sólo -  noty, NEakordy}
+{sov}
+H, A, H, A, H, D, H, A, E, D, H, H, A, H, A, H, D, H, A, f#, e, d, e, f#, A
+{eov}
 
 Opilá vínem
 po další sklizni,
@@ -34,8 +37,10 @@ tepnou víno protéká.
 Silou vodopádu
 strhne život člověka.
 
-2x (sólo - noty, NEakordy) H, A, H, A, H, D, H, A, E, D, H, H, A, H, A, H, D, H, A, f#, e, d, e, f#, A
-
+{c: sólo -  noty, NEakordy}
+{sov}
+H, A, H, A, H, D, H, A, E, D, H, H, A, H, A, H, D, H, A, f#, e, d, e, f#, A
+{eov}
 A dívka krásná jako víla
 osud révy v rukou má,
 hlínu krví orosila,
@@ -49,9 +54,18 @@ když jí mezi prsty prýští,
 šťáva hroznů mladé víno,
 bosou nohou hlavy tříští.
 
-2x (sólo - noty, NEakordy) H, A, H, A, H, D, H, A, E, D, H, H, A, H, A, H, D, H, A, f#, e, d, e, f#, A
+{c: sólo -  noty, NEakordy}
+{sov}
+H, A, H, A, H, D, H, A, E, D, H, H, A, H, A, H, D, H, A, f#, e, d, e, f#, A
+{eov}
 
-5x
 Krev mé krve pije hlína,
 na vždycky už bude jiná
-
+Krev mé krve pije hlína,
+na vždycky už bude jiná
+Krev mé krve pije hlína,
+na vždycky už bude jiná
+Krev mé krve pije hlína,
+na vždycky už bude jiná
+Krev mé krve pije hlína,
+na vždycky už bude jiná

@@ -1,7 +1,7 @@
 {title: Víc než přítel}
 {artist: Karel Černoch}
 
-{start_of_chorus}
+{start_of_chorus: R1}
 C[D]htěl bych být víc než přít[A]el tvůj
 Dej si říct a [D]chvíli stůj
 Kamarád mi schází čí[G]m dál víc
@@ -13,19 +13,14 @@ Co sám nabídnul mi své přátelství
 Pro kuráž si nejspíš víckrát šel
 A tak mi řek' co říct mi chtěl
 
-{start_of_chorus}
-Chtěl bych být víc než přítel tvůj
-Dej si říct a chvíli stůj
-Kamarád mi schází čím dál víc
-Víc než táta dá se říct
-{end_of_chorus}
+{chorus: R1}
 
 Měl svých osm let o dost míň než já
 A ústa jak se patří výřečná
 Kde mají být fousy neměl vůbec nic
 A tak já jsem řekl to co mněl jsem říct
 
-{start_of_chorus}
+{start_of_chorus: R2}
 Koukej koukej já jsem chlap
 o moc dřív mně přines čáp
 tvou mámu znal jsem už jako kluk
@@ -37,12 +32,7 @@ A jakoby v ten moment povyrost'
 Teprv pak jsem pochopil bohužel
 Co všechno vlastně říct co říct mi chtěl
 
-{start_of_chorus}
-Chtěl bych být víc než přítel tvůj
-Dej si říct a chvíli stůj
-Kamarád mi schází čím dál víc
-Víc než táta dá se říct
-{end_of_chorus}
+{chorus: R1}
 
 Tenhle kluk měl nos stejný jako já
 A podobný oči to poznat se dá
@@ -54,7 +44,7 @@ s níž já se dřív jednou málem bral
 jenže odjet někam právě musel jsem
 a po návratu jsem ji potkal s kočárkem
 
-{start_of_chorus}
+{start_of_chorus: R3}
 Koukej koukej na můj nos
 Podobný je tvému dost
 Tak dej si říct a chvíli stůj

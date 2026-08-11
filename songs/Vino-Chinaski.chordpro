@@ -13,7 +13,7 @@ mám jediný cíl a přede mnou je Pálava.
 Už od Brna jsem jako na trní,
 ta sladká píseň tak blízko zní.
 
-{start_of_chorus}
+{start_of_chorus: R1}
 My máme rádi víno,
 milujeme krásné ženy a zpěv.
 A na věc jdeme přímo,
@@ -27,9 +27,9 @@ dobrý lid a klid a řád.
 Najdu tam všechno, co na světě mám rád,
 vodu, slunce a nekonečný vinohrad.
 
-{chorus}
+{chorus: R1}
 
-{start_of_chorus}
+{start_of_chorus: R2}
 My tady totiž máme
 všechno, co na světě máš rád.
 A ochutnat ti dáme,
@@ -41,9 +41,9 @@ v mírném klima našeho podnebí.
 Je krásné nemít nikdy dost
 a dělat věci jen tak pro radost.
 
-{chorus}
+{chorus: R1}
 
-{chorus}
+{chorus: R2}
 
-{chorus}
+{chorus: R1}
 

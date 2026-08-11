@@ -7,8 +7,8 @@ Objednal hned [A]litr rumu a[H7] pak něžně řva[E]l:
 "Sb[C#mi]al se, jedem na v[F#mi]elryby, pre[H7]j až za pol[E]ár."
 
 {start_of_chorus}
-: Výprava v[E]elrybářská ko[A]lem Grónska nezda[H7]řila se[E],
-protože[C#mi] nejeli jsme n[F#mi]a velryby, a[H7]le na mrože[E]. :
+|: Výprava v[E]elrybářská ko[A]lem Grónska nezda[H7]řila se[E],
+protože[C#mi] nejeli jsme n[F#mi]a velryby, a[H7]le na mrože[E]. :|
 {end_of_chorus}
 
 Briga zvaná Malá Kitty kotví v zátoce,
@@ -31,10 +31,12 @@ Místo velryb v Grónským moři zajímal vás grog,
 tuhle práci zaplatil by asi jenom cvok.
 
 {chorus}
-
 Tohleto nám neměl říkat, teď to dobře ví,
 stáhli jsme mu kůži z těla, tomu ha-do-vi.
-Rec.: "[E]Z paluby pak [A]slanej vítr jeh[H7]o tělo sme[E]t', chachachachá,
+{sov: Rec}
+"[E]Z paluby pak [A]slanej vítr jeh[H7]o tělo sme[E]t', chachachachá,
 [C#mi]máme velryb [F#mi]plný zuby, n[H7]a to vezmi [E]jed."
+{eov}
+
 {chorus}
 
